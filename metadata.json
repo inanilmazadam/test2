@@ -1,0 +1,5 @@
+{
+  "name": "HoopSense AI",
+  "description": "Real-time basketball shot tracking and analytics using AI computer vision.",
+  "requestFramePermissions": ["camera"]
+}
